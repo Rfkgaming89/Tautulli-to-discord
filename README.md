@@ -50,6 +50,7 @@ Before you can use this bot, you need to have the following:
 
 Once the bot is running, it will automatically retrieve data from Tautulli and post updates
 
-Contributing
+
+## Contributing
 
 Feel free to contribute to this project by submitting issues, feature requests, or pull requests.
