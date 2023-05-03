@@ -1,4 +1,4 @@
-A quick and dirty Python & docker script to display in discord what is being played along with media count from Tautulli 
+A quick and dirty Python script to display in discord what is being played along with media count from Tautulli 
 
 Replace YOUR_TAUTULLI_API_KEY, YOUR_DISCORD_BOT_TOKEN, and the channel IDs with your own values.
 
